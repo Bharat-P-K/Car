@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Choose your subject --></help>
+    <label><!-- Subject --></label>
+    <name>Subject__c</name>
+    <picklistValues>
+        <masterLabel>EVS</masterLabel>
+        <translation><!-- EVS --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>English</masterLabel>
+        <translation><!-- English --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Geography</masterLabel>
+        <translation><!-- Geography --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hindi</masterLabel>
+        <translation><!-- Hindi --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>History and civics</masterLabel>
+        <translation><!-- History and civics --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Maths</masterLabel>
+        <translation><!-- Maths --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Science</masterLabel>
+        <translation><!-- Science --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

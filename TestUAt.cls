@@ -1,7 +1,10 @@
 public class UAt
 {
+public static void main(){
+
 System.debug("this should be merged with main ");
 Integer i=1;
 System.debug(i);
 //added for cdqa=37
+}
 }

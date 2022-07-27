@@ -1,0 +1,4 @@
+{
+  "name": "nFORCE__Language__c",
+  "query": "Select Id From nFORCE__Language__c Where ( nFORCE__LookupKey__c !\u003d  null )"
+}

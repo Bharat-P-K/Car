@@ -1,0 +1,2 @@
+Id,OwnerId,IsDeleted,Name,CreatedDate,CreatedById,LastModifiedDate,LastModifiedById,SystemModstamp,LastViewedDate,LastReferencedDate,nFORCE__Flag_Image__c,nFORCE__Is_Portal_Enabled__c,nFORCE__Language_Display_Name__c,nFORCE__Locale_Key__c,nFORCE__LookupKey__c
+"a4i4T000000TPRZQA4","0054T000000qMtZQAU","","English (U.S)","2019-09-09T15:18:06.000Z","0054T000000qMtZQAU","2020-03-30T15:15:56.000Z","0054T000000qMtZQAU","","","","","true","English (U.S)","en_US","asdf"

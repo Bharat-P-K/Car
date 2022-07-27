@@ -1,0 +1,43 @@
+{
+  "name": "1_LLC_BI__Institution__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LLC_BI__Brand__c",
+    "LLC_BI__Community_Extension__c",
+    "LLC_BI__Community_Name__c",
+    "LLC_BI__Community_Network_ID__c",
+    "LLC_BI__Look_Up_Key__c",
+    "LLC_BI__LookupKey__c",
+    "LLC_BI__Permission_Set__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "a4q4T000000bskPQAQ",
+      "CreatedById": "0054T000000qMtZQAU",
+      "CreatedDate": "2019-09-09T15:18:06.000Z",
+      "Id": "a4q4T0000004KW4QAM",
+      "IsDeleted": "",
+      "LLC_BI__Brand__c": "a4e4T000000PIvSQAW",
+      "LLC_BI__Community_Extension__c": "CustomerPortal",
+      "LLC_BI__Community_Name__c": "Customer Portal",
+      "LLC_BI__Community_Network_ID__c": "",
+      "LLC_BI__Look_Up_Key__c": "34652546354g5",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "nSightFinancial_Community",
+      "LastModifiedById": "0054T000000qNGEQA2",
+      "LastModifiedDate": "2020-04-02T14:04:35.000Z",
+      "Name": "nSight Financial",
+      "OwnerId": "0054T000000qMtZQAU",
+      "SystemModstamp": ""
+    }
+  }
+}

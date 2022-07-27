@@ -1,0 +1,41 @@
+{
+  "name": "1_nFORCE__Language__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastViewedDate",
+    "LastReferencedDate",
+    "nFORCE__Flag_Image__c",
+    "nFORCE__Is_Portal_Enabled__c",
+    "nFORCE__Language_Display_Name__c",
+    "nFORCE__Locale_Key__c",
+    "nFORCE__LookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "CreatedById": "0054T000000qMtZQAU",
+      "CreatedDate": "2019-09-09T15:18:06.000Z",
+      "Id": "a4i4T000000TPRZQA4",
+      "IsDeleted": "",
+      "LastModifiedById": "0054T000000qMtZQAU",
+      "LastModifiedDate": "2020-03-30T15:15:56.000Z",
+      "LastReferencedDate": "",
+      "LastViewedDate": "",
+      "Name": "English (U.S)",
+      "OwnerId": "0054T000000qMtZQAU",
+      "SystemModstamp": "",
+      "nFORCE__Flag_Image__c": "",
+      "nFORCE__Is_Portal_Enabled__c": "true",
+      "nFORCE__Language_Display_Name__c": "English (U.S)",
+      "nFORCE__Locale_Key__c": "en_US",
+      "nFORCE__LookupKey__c": "asdf"
+    }
+  }
+}
